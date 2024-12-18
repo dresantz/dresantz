@@ -2,12 +2,14 @@
 
 ###
 
-<p align="left">Welcome to my GitHub page! I'm André Santos, or just Dre, I'm studing a lot of diferent things, but my focus is games. I have a good understending on Audacity to make audios and the Adobe suit for animations and video edition. You can find more about what I am doing on my LinkedIn page.</p>
+<p align="left">Welcome to my GitHub page! I'm André Santos, or just Dre. I'm studying a lot of different things, but my main focus is on games. I have a good understanding of Audacity for audio editing and the Adobe suite for animations and video editing. You can find more about what I'm working on by visiting my LinkedIn page, just click on the button.</p>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/dresantz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
